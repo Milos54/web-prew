@@ -1,0 +1,28 @@
+{
+  "name": "web-preview-qr",
+  "version": "1.0.0",
+  "description": "📱 A simple CLI to preview local dev servers on your phone using QR codes — like Expo Go, but for web.",
+  "main": "index.js",
+  "bin": {
+    "web-preview-qr": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "keywords": [
+    "qr",
+    "vite",
+    "dev-server",
+    "preview",
+    "mobile",
+    "web",
+    "cli",
+    "local-ip",
+    "qrcode"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "qrcode-terminal": "^0.12.0"
+  }
+}
