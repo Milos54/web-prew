@@ -1,10 +1,10 @@
 {
-  "name": "web-preview-qr-sass",
+  "name": "web-preview-qr-angular",
   "version": "1.0.0",
   "description": "📱 A simple CLI to preview local dev servers on your phone using QR codes — like Expo Go, but for web.",
   "main": "index.js",
   "bin": {
-    "web-preview-qr-sass": "index.js"
+    "web-preview-qr-angular": "index.js"
   },
   "scripts": {
     "test": "echo \"No test specified\" && exit 0"
